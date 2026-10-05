@@ -16,7 +16,7 @@
 1. 在 Edge 中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展；
 2. 打开下面的 Raw 链接，Tampermonkey 会自动识别并弹出安装界面，点击「安装」即可：
 
-   `https://raw.githubusercontent.com/yuyiiyu/tampermonkey-scripts/main/scripts/douyin/edge/抖音精简优化+下载.user.js`
+   `https://raw.githubusercontent.com/yuyiiiyu/tampermonkey-scripts/main/scripts/douyin/edge/抖音精简优化+下载.user.js`
 
 ## 简介
 
@@ -59,4 +59,4 @@
 
 ## 有问题？
 
-欢迎到仓库 Issues 反馈：https://github.com/yuyiiyu/tampermonkey-scripts/issues
+欢迎到仓库 Issues 反馈：https://github.com/yuyiiiyu/tampermonkey-scripts/issues
