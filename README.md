@@ -13,8 +13,8 @@
 
 | 脚本 | 分类（站点/功能） | 浏览器 | 版本 | 说明文档 |
 | --- | --- | --- | --- | --- |
-| [抖音精简优化 + 下载](https://github.com/yuyiiyu/tampermonkey-scripts/tree/main/scripts/douyin/chrome) | `douyin` | Chrome | 1.0.20 | [README](scripts/douyin/chrome/README.md) |
-| [抖音精简优化 + 下载](https://github.com/yuyiiyu/tampermonkey-scripts/tree/main/scripts/douyin/edge) | `douyin` | Edge | 1.0.6 | [README](scripts/douyin/edge/README.md) |
+| [抖音精简优化 + 下载](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/scripts/douyin/chrome) | `douyin` | Chrome | 1.0.20 | [README](scripts/douyin/chrome/README.md) |
+| [抖音精简优化 + 下载](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/scripts/douyin/edge) | `douyin` | Edge | 1.0.6 | [README](scripts/douyin/edge/README.md) |
 
 ## 📁 仓库结构
 
