@@ -13,25 +13,25 @@
 
 | 脚本 | 分类（站点/功能） | 浏览器 | 版本 | 说明文档 |
 | --- | --- | --- | --- | --- |
-| [抖音精简优化 + 下载](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/scripts/douyin/chrome) | `douyin` | Chrome | 1.0.20 | [README](scripts/douyin/chrome/README.md) |
-| [抖音精简优化 + 下载](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/scripts/douyin/edge) | `douyin` | Edge | 1.0.6 | [README](scripts/douyin/edge/README.md) |
+| [抖音精简优化 + 下载](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/油猴脚本/抖音/chrome) | `抖音` | Chrome | 1.0.20 | [README](油猴脚本/抖音/chrome/README.md) |
+| [抖音精简优化 + 下载 + 4K 画质](https://github.com/yuyiiiyu/tampermonkey-scripts/tree/main/油猴脚本/抖音/edge) | `抖音` | Edge | 1.0.6 | [README](油猴脚本/抖音/edge/README.md) |
 
 ## 📁 仓库结构
 
 ```
 scripts/
-└── douyin/                          # 分类：按站点或功能命名（如 douyin / bilibili / weibo …）
+└── 抖音/                          # 分类：按站点或功能命名（如 抖音 / bilibili / weibo …）
     ├── chrome/                      # 浏览器：Chrome 版
     │   ├── 抖音精简优化+下载.user.js
     │   └── README.md
     └── edge/                        # 浏览器：Edge 版
-        ├── 抖音精简优化+下载.user.js
+        ├── 抖音精简优化+下载+4k画质.user.js
         └── README.md
 ```
 
 ## ➕ 以后怎么新增脚本
 
-1. 在 `scripts/` 下按功能/站点新建一个分类目录（例如 `scripts/bilibili/`）；
+1. 在 `油猴脚本/` 下按功能/站点新建一个分类目录（例如 `油猴脚本/bilibili/`）；
 2. 在分类目录里按浏览器建子目录（`chrome/`、`edge/` …）；
 3. 放入 `xxx.user.js`（文件名必须以 `.user.js` 结尾，这样 Raw 链接点开就能一键安装）与 `README.md` 说明（建议包含：作者、版本、许可、功能、快捷键、已知问题、解决办法）；
 4. 回到本文件，在「脚本目录」表格里补一行。
